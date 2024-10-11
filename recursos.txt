@@ -1,0 +1,34 @@
+Vermelho de Ação – Para destacar elementos de combate ou notificações importantes:
+#E63946 (vermelho vibrante).
+
+Verde de Cura – Usado para destacar curas, suporte e elementos naturais:
+#2A9D8F (verde esmeralda).
+
+Azul de Energia – Ideal para barras de mana ou habilidades especiais:
+#457B9D (azul médio).
+
+Amarelo de Atenção – Para alertas, botões de ação ou informações relevantes:
+#F4A261 (amarelo quente).
+
+Roxo Misterioso – Para elementos sombrios, heróis roxos ou habilidades mágicas:
+#8A4DFF (roxo vibrante).
+
+Cinza Metálico – Para o fundo ou menus, mantendo a interface clara:
+#333333 (cinza escuro).
+
+imagem
+https://d2duuy9yo5pldo.cloudfront.net/dashboard-resources/smallgiantgames/1920/d9a5a6da-173b-4d18-b2b7-18ea1af81ade.webp
+
+blob:chrome-untrusted://image-magnify/20e937e3-127a-49aa-9dd2-62a3d809ee3f
+
+fonte
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+
+.bangers-regular {
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
